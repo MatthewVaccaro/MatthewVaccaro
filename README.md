@@ -26,8 +26,7 @@
 
 **_Technology Used_**
 
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/9edd1a31f8f7998e93ed68e0430e2e13/raw/462db2e031e3761ae23c193b2fa70ce960002048/jsIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/framerIcon.svg height=44px alt="HTML"/>
+<img src=https://gist.githubusercontent.com/MatthewVaccaro/9edd1a31f8f7998e93ed68e0430e2e13/raw/462db2e031e3761ae23c193b2fa70ce960002048/jsIcon.svg   height=44px alt="HTML"/> <img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/framerIcon.svg height=44px alt="HTML"/>
 <img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/expressIcon.svg   height=44px alt="HTML"/>
 <img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/knexIcon.svg   height=44px alt="HTML"/>
 <img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/nodeIcon.svg   height=44px alt="HTML"/>
