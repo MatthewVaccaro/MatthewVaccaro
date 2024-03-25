@@ -14,7 +14,7 @@ I'm fairly tech agnostic and focus on choosing the right tool for the job. More 
 
 ### Tech Frequency
 
-Where I spend most of my time - this isn't a gauge of my skill level but how often
+Where I spend most of my time - this isn't a gauge of my skill level but how often I'm using the tech
 
 <pre>
     Frontend ▏   65% ████████████▌▌▌▌▌▌▌▌▌▌ 
