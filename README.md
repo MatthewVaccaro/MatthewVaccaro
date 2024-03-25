@@ -1,38 +1,49 @@
-<img  src=https://gist.githubusercontent.com/MatthewVaccaro/54b5897f74a0d4ea56163a8c63d2c734/raw/b1b1ef9e35a4b7a35107a99658d320e0a359fe2b/georgeCady.svg height=40 alt=my dogs Cady and George>
+## Design-Infused Full Stack Engineer
 
+Hey! I'm Matt Vaccaro, a Full Stack Engineer with a rich background in design. With over a decade of experience in tech, I've wielded my expertise to infuse a touch of magic into numerous teams across diverse landscapes, spanning from hyper growth startups to industry titans.
 
-### 🤙 Hey I'm Matt
+### Tech Frequency
 
-# I'm a Software Engineer with a history in Product
+I'm fairly tech agnostic and focus on choosing the right tool for the job. More often then not my stack is Typescript, React paired with a framework (based on need) with a Elysia backend (switch from express for the speed gains) built & bundled by Bun. I often pair Drizzle (ORM), tRPC & Zod (Type safety & Validation)
 
-<br />
+<pre>
+    Frontend ▏   65% ████████████▌▌▌▌▌▌▌▌▌▌ 
+     Backend ▏   35% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+</pre>
 
-**_- About_**
+_Language_
 
-#### I'm currently, working for **_LiveSchool_** as a **_Senior Product Designer_** and a Stealth Start (releasing soon) as a **_Full Stack (Backend Main) Engineer (Node/React)_** living the remote life out in Nashville. On the side, I'm building a restaurant search engine & running a Discord where we do group code challenges.
+<pre>
+  Typescript ▏   85% ██████████████████▌▌▌▌
+          Go ▏   10% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+      Python ▏    5% ███▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+</pre>
 
-<br />
-<br />
+_Databases_ <br>
+<sup>Surpasses 100% because I often pair Redis with my DB of choice</sup>
 
-**_- Value_**
+<pre>
+          PG ▏   80% ██████████████████▌▌▌▌
+      SQLite ▏   17% ██▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+       Mongo ▏    3% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
-#### My skill-set lends itself to being a catalyst for improved communication between product & engineering. Giving early feedback on product and writing code that is thoughtful of where the product is going. Resulting in strong alignment & shipping faster with fewer mistakes.
+       Redis ▏   70% ███████████████▌▌▌▌▌▌▌
+</pre>
 
-<br />
+_Frontend Frameworks_
 
----
+<pre>
+       React ▏   45% ████████▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+React Native ▏   35% ███████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+        Next ▏   15% ████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+         Vue ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+</pre>
 
-<br />
+_Backend Frameworks_
 
-**_Technology Used_**
-
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/9edd1a31f8f7998e93ed68e0430e2e13/raw/462db2e031e3761ae23c193b2fa70ce960002048/jsIcon.svg   height=44px alt="HTML"/> <img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/framerIcon.svg height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/expressIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/knexIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/nodeIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/pgsqlIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/pupIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/pythonIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/reactIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/reduxIcon.svg   height=44px alt="HTML"/>
-<img src=https://gist.githubusercontent.com/MatthewVaccaro/d374d4328afc70a5040acdb12d97108c/raw/1d6b8f8b3688eec2cc4bc1c89569bca6da7b6e7c/framerIcon.svg height=44px alt="HTML"/>
+<pre>
+    Express ▏   80% ██████████████████▌▌▌▌
+     Elysia ▏   10% █▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+       Nest ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+       Hono ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+</pre>
