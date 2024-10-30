@@ -17,15 +17,15 @@ I'm fairly tech agnostic and focus on choosing the right tool for the job. More 
 Where I spend most of my time - this isn't a gauge of my skill level but how often I'm using the tech
 
 <pre>
-    Frontend ▏   65% ████████████▌▌▌▌▌▌▌▌▌▌ 
-     Backend ▏   35% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+    Frontend ▏   55% ████████████▌▌▌▌▌▌▌▌▌▌ 
+     Backend ▏   45% ████████████▌▌▌▌▌▌▌▌▌▌
 </pre>
 
 _Language_
 
 <pre>
-  Typescript ▏   85% ██████████████████▌▌▌▌
-          Go ▏   10% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+  Typescript ▏   75% ████████████████▌▌▌▌▌▌
+          Go ▏   20% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
       Python ▏    5% ███▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 </pre>
 
@@ -33,11 +33,10 @@ _Databases_ <br>
 <sup>Surpasses 100% because I often pair Redis with my DB of choice</sup>
 
 <pre>
-          PG ▏   80% ██████████████████▌▌▌▌
-      SQLite ▏   17% ██▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
-       Mongo ▏    3% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+          PG ▏   70% ████████████████▌▌▌▌▌▌
+      SQLite ▏   30% ██████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
-       Redis ▏   70% ███████████████▌▌▌▌▌▌▌
+       Redis ▏   70% ████████████████▌▌▌▌▌▌
 </pre>
 
 _Frontend Frameworks_
@@ -46,14 +45,11 @@ _Frontend Frameworks_
        React ▏   45% ████████▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 React Native ▏   35% ███████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
         Next ▏   15% ████▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
-         Vue ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 </pre>
 
 _Backend Frameworks_
 
 <pre>
-    Express ▏   80% ██████████████████▌▌▌▌
-     Elysia ▏   10% █▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
-       Nest ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
-       Hono ▏    5% ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+    Elysia ▏   80% ██████████████████▌▌▌▌
+   Express ▏   20% █▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 </pre>
