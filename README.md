@@ -1,8 +1,6 @@
 ## Design-Infused Full Stack Engineer
 
 Hey! I'm Matt Vaccaro, a Full Stack Engineer with a rich background in design. With over a decade of experience in tech, I've wielded my expertise to infuse a touch of magic into numerous teams across diverse landscapes, spanning from hyper growth startups to industry titans.
-<br/>
-**[Learn More 👈](https://www.mattvaccaro.dev/)**
 <br>
 <br>
 
